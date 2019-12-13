@@ -1,0 +1,18 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "removeComments": false,
+    "target": "es2015",
+    "lib": ["es2017", "dom"],
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "allowJs": true,
+    "listFiles": false,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "module": "commonjs",
+    "outDir": ""
+  },
+  "include": ["src/**/*"]
+}

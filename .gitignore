@@ -1,0 +1,10 @@
+*.DS_Store
+.tmp
+dist
+node_modules
+public
+build
+.bundle
+.vscode
+npm-debug.log
+.wpcache/
